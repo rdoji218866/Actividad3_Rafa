@@ -25,3 +25,193 @@ Mi recomendación es siempre realizarlo dependiendo del lenguaje que se esté us
 
 <img width="1510" height="2724" alt="image" src="https://github.com/user-attachments/assets/fb6419e6-4275-4c55-8ec0-faef6255ed7e" />
 
+<img width="1756" height="4054" alt="image" src="https://github.com/user-attachments/assets/4441d319-ebf4-4357-8927-b50887460527" />
+
+
+PRUEBA DE EJECUCION
+
+La tele esta lista para prender.
+
+========= INTERACTUA CON LA TV ==========
+1)Prende la TV.
+2)Apaga la TV.
+3)Cambia canal especifico.
+4)Aumenta de canal.
+5)Disminuye de canal.
+6)Subir volumen.
+7)Baja el volumen
+0)Salir
+Elija una opcion: 
+
+2
+La tele ya esta apagada.
+
+========= INTERACTUA CON LA TV ==========
+1)Prende la TV.
+2)Apaga la TV.
+3)Cambia canal especifico.
+4)Aumenta de canal.
+5)Disminuye de canal.
+6)Subir volumen.
+7)Baja el volumen
+0)Salir
+Elija una opcion: 
+
+4
+La tele esta apagada.
+
+========= INTERACTUA CON LA TV ==========
+1)Prende la TV.
+2)Apaga la TV.
+3)Cambia canal especifico.
+4)Aumenta de canal.
+5)Disminuye de canal.
+6)Subir volumen.
+7)Baja el volumen
+0)Salir
+Elija una opcion: 
+
+1
+La tele ahora esta prendida.
+
+========= INTERACTUA CON LA TV ==========
+1)Prende la TV.
+2)Apaga la TV.
+3)Cambia canal especifico.
+4)Aumenta de canal.
+5)Disminuye de canal.
+6)Subir volumen.
+7)Baja el volumen
+0)Salir
+Elija una opcion: 
+
+3
+Ingrese al canal a cambiar
+4
+La tele cambio al canal 4.
+
+========= INTERACTUA CON LA TV ==========
+1)Prende la TV.
+2)Apaga la TV.
+3)Cambia canal especifico.
+4)Aumenta de canal.
+5)Disminuye de canal.
+6)Subir volumen.
+7)Baja el volumen
+0)Salir
+Elija una opcion: 
+
+4
+La tele cambio al canal 5.
+
+========= INTERACTUA CON LA TV ==========
+1)Prende la TV.
+2)Apaga la TV.
+3)Cambia canal especifico.
+4)Aumenta de canal.
+5)Disminuye de canal.
+6)Subir volumen.
+7)Baja el volumen
+0)Salir
+Elija una opcion: 
+
+4
+La tele cambio al canal 6.
+
+========= INTERACTUA CON LA TV ==========
+1)Prende la TV.
+2)Apaga la TV.
+3)Cambia canal especifico.
+4)Aumenta de canal.
+5)Disminuye de canal.
+6)Subir volumen.
+7)Baja el volumen
+0)Salir
+Elija una opcion: 
+
+5
+La tele cambio al canal 5.
+
+========= INTERACTUA CON LA TV ==========
+1)Prende la TV.
+2)Apaga la TV.
+3)Cambia canal especifico.
+4)Aumenta de canal.
+5)Disminuye de canal.
+6)Subir volumen.
+7)Baja el volumen
+0)Salir
+Elija una opcion: 
+
+5
+La tele cambio al canal 4.
+
+========= INTERACTUA CON LA TV ==========
+1)Prende la TV.
+2)Apaga la TV.
+3)Cambia canal especifico.
+4)Aumenta de canal.
+5)Disminuye de canal.
+6)Subir volumen.
+7)Baja el volumen
+0)Salir
+Elija una opcion: 
+
+6
+La tele esta a 51 de volumen.
+
+========= INTERACTUA CON LA TV ==========
+1)Prende la TV.
+2)Apaga la TV.
+3)Cambia canal especifico.
+4)Aumenta de canal.
+5)Disminuye de canal.
+6)Subir volumen.
+7)Baja el volumen
+0)Salir
+Elija una opcion: 
+
+6
+La tele esta a 52 de volumen.
+
+========= INTERACTUA CON LA TV ==========
+1)Prende la TV.
+2)Apaga la TV.
+3)Cambia canal especifico.
+4)Aumenta de canal.
+5)Disminuye de canal.
+6)Subir volumen.
+7)Baja el volumen
+0)Salir
+Elija una opcion: 
+
+7
+La tele esta a 51 de volumen.
+
+========= INTERACTUA CON LA TV ==========
+1)Prende la TV.
+2)Apaga la TV.
+3)Cambia canal especifico.
+4)Aumenta de canal.
+5)Disminuye de canal.
+6)Subir volumen.
+7)Baja el volumen
+0)Salir
+Elija una opcion: 
+
+7
+La tele esta a 50 de volumen.
+
+========= INTERACTUA CON LA TV ==========
+1)Prende la TV.
+2)Apaga la TV.
+3)Cambia canal especifico.
+4)Aumenta de canal.
+5)Disminuye de canal.
+6)Subir volumen.
+7)Baja el volumen
+0)Salir
+Elija una opcion: 
+
+0
+Hasta luego.
